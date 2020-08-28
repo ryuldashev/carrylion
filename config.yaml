@@ -10,11 +10,9 @@ module:
     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  instagram: "https://www.instagram.com/carrylionart/"
+  linkedin: "https://www.linkedin.com/in/carrylion/"
+  vimeo: "https://vimeo.com/carrylion"
+  tumblr: "https://carrylion.tumblr.com/"
 taxonomies:
   author: authors
