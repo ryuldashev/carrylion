@@ -1,19 +1,18 @@
 ---
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
+title: Carina Mirzaeva
+bio: Немного текста про Карину. Примерно на две строчки в самый раз будет.
+avatar: "/images/2020-08-28-20-37-52.jpg"
 featured: true
 social:
-  - title: unsplash
-    url: https://unsplash.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: unsplash
+  url: https://unsplash.com
+- title: github
+  url: https://github.com
+- title: github
+  url: https://github.com
+- title: github
+  url: https://github.com
+- title: github
+  url: https://github.com
+
 ---
