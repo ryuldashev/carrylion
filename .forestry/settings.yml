@@ -7,9 +7,8 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: content/about.mdf
+  path: content/about.md
   label: About page
-  match: "**/*"
 - type: document
   path: content/_index.md
   label: Home
