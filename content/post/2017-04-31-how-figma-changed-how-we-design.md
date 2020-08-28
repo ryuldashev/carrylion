@@ -2,8 +2,7 @@
 title: Insomnia 2020
 date: 2017-04-31
 hero: "/images/2020-08-28-20-40-28.png"
-excerpt: To understand why Figma is the best design tool for our company, you have
-  to understand what we do. As a designer.
+excerpt: First prize in the «Insomnia» Competition of festival openings.
 timeToRead: 8
 authors:
 - Dennis Brotzky
