@@ -21,3 +21,8 @@ fields:
   config:
     required: false
   label: Vimeo link
+- name: hero
+  type: file
+  config:
+    maxSize: 64
+  label: hero
